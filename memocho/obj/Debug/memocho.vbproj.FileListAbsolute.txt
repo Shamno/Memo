@@ -1,0 +1,12 @@
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\bin\Debug\memocho.exe.config
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\bin\Debug\memocho.exe
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\bin\Debug\memocho.pdb
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\bin\Debug\memocho.xml
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\obj\Debug\memocho.vbprojAssemblyReference.cache
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\obj\Debug\memocho.Form1.resources
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\obj\Debug\memocho.Resources.resources
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\obj\Debug\memocho.vbproj.GenerateResource.cache
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\obj\Debug\memocho.vbproj.CoreCompileInputs.cache
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\obj\Debug\memocho.exe
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\obj\Debug\memocho.xml
+C:\Users\IN8i-15X7200\Desktop\学校_VB\memocho\memocho\obj\Debug\memocho.pdb
